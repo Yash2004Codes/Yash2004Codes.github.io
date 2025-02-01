@@ -13,13 +13,13 @@ function changeMode(){
 
     if(body.style.backgroundColor== 'black'){
         body.style.backgroundColor='white';
-        toggle.src='darkMode.png';
-        mylink.href='index.css';
+        toggle.src='NewsLetter/darkMode.png';
+        mylink.href='NewsLetter/index.css';
     }
     else{
         body.style.backgroundColor='black';
-        toggle.src='lightMode.png';
-        mylink.href='dark.css';
+        toggle.src='NewsLetter/lightMode.png';
+        mylink.href='NewsLetter/dark.css';
     }
 
 }
