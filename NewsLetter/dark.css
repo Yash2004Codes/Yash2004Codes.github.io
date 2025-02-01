@@ -49,3 +49,13 @@
     }
     
 }
+
+.myfooter{
+    border:2px solid black;
+    margin-top: 29vh;
+
+}
+.div4{
+display: flex;
+flex-direction: column;
+}

@@ -54,9 +54,15 @@
 .myfooter{
     border:2px solid black;
     margin-top: 29vh;
-
+    background-color:aqua;
+    margin-bottom: 0%;
 }
 .div4{
 display: flex;
 flex-direction: column;
+color:rgb(235, 15, 15);
+font-family:Impact, Haettenschweiler, 
+'Arial Narrow Bold', sans-serif;
+font-size: large;
+
 }
